@@ -1,0 +1,16 @@
+.map {
+    padding: 0px;
+    width: 100%;
+}
+
+#map-table {
+    width: 100%;
+}
+
+#stacked {
+    width: 60%;
+}
+
+#info {
+    width: 30%;
+}
